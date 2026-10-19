@@ -1,7 +1,7 @@
 Region,Team,Hostname,IP,Platform,CPU,Memory,Service Tag,Owner
-HCM,HT,abc,10.10.10.101,Physical,111,1007.4 GiB,aaa,lili
-HCM,HT,xyz,10.10.10.102,Physical,111,1007.4 GiB,bbb,lili
-HCM,HT,cmn,10.10.10.103,Physical,111,1007.4 GiB,ccc,lili
+HCM,HT,abc,10.10.10.101,Physical,111,1007.4 GiB,aaa,phatlt
+HCM,HT,xyz,10.10.10.102,Physical,111,1007.4 GiB,bbb,phatlt
+HCM,HT,cmn,10.10.10.103,Physical,111,1007.4 GiB,ccc,phatlt
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
